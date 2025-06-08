@@ -17,8 +17,6 @@
   <img src="https://profile-counter.glitch.me/alvinandakurniawann/count.svg?"  />
 </div>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinandakurniawann/alvinandakurniawann/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvinandakurniawann/alvinandakurniawann/output/pacman-contribution-graph.svg">
@@ -33,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinandakurniawann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alvinandakurniawann&icon=0&color=0)](https://visitcount.itsvg.in)
+# My Recently Played Song on Spotify
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ynfaxpoud55nbf7aycxwqcdpyi)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
