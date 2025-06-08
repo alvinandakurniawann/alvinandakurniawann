@@ -3,6 +3,12 @@
 
 - 🔭 I’m currently working on [MCU-Mobile-App](https://github.com/alvinandakurniawann/MCU-Mobile-App)
 - 🌱 I’m currently learning **Flutter**
+
+# Profile Views Count::
+<div align="center">
+  <img src="https://profile-counter.glitch.me/alvinandakurniawann/count.svg?"  />
+</div>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvinandakurniawann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-alvinanda-kurniawan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alvinnanda.kurniawan@gmail.com) 
 
@@ -11,19 +17,6 @@
 
 <img src="https://raw.githubusercontent.com/alvinandakurniawann/alvinandakurniawann/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/alvinandakurniawann/count.svg?"  />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinandakurniawann/alvinandakurniawann/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvinandakurniawann/alvinandakurniawann/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvinandakurniawann/alvinandakurniawann/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alvinandakurniawann&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
