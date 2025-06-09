@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [MCU-Mobile-App](https://github.com/alvinandakurniawann/MCU-Mobile-App), and [News Scraper & Fake News Detection](https://github.com/alvinandakurniawann/News-Scraper-Fake-News-Detection)
 - 🌱 I’m currently learning **Flutter**
 
-# Profile Views Count::
+# Profile Views Count:
 <div align="center">
   <img src="https://profile-counter.glitch.me/alvinandakurniawann/count.svg?"  />
 </div>
