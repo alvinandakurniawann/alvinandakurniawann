@@ -1,7 +1,7 @@
 <h1> 💫 About Me </h1>
 <h3> Hi 👋, I'm Mohammad Alvinanda Kurniawan, With a deep curiosity for how technology shapes the world, I’ve found my passion at the intersection of software development, data analysis, and cybersecurity. As a computer science undergraduate, I’ve developed a solid technical foundation through both coursework and hands-on projects—whether it’s writing clean, efficient code, working through complex algorithms, or analyzing data to uncover meaningful insights. What drives me is the challenge of creating solutions that are not only functional but also smart, scalable, and secure. I enjoy diving into real problems and thinking critically about how to make systems better, and I’m always looking to expand my knowledge and apply it in ways that are impactful, especially in environments where technology and innovation go hand in hand.</h3>
 
-- 🔭 I’m currently working on [MCU-Mobile-App](https://github.com/alvinandakurniawann/MCU-Mobile-App)
+- 🔭 I’m currently working on [MCU-Mobile-App](https://github.com/alvinandakurniawann/MCU-Mobile-App), and [News Scraper & Fake News Detection](https://github.com/alvinandakurniawann/News-Scraper-Fake-News-Detection)
 - 🌱 I’m currently learning **Flutter**
 
 # Profile Views Count::
